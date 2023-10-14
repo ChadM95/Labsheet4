@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/Labsheet 4.csproj",
-      "projectName": "Labsheet 4",
-      "projectPath": "/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/Labsheet 4.csproj",
+      "projectUniqueName": "/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/Ex1.csproj",
+      "projectName": "Ex1",
+      "projectPath": "/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/Ex1.csproj",
       "packagesPath": "/Users/Chad/.nuget/packages/",
       "outputPath": "/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/obj/",
       "projectStyle": "PackageReference",

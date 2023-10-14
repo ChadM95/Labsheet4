@@ -1,0 +1,15 @@
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/obj/Debug/net7.0/Ex1.csproj.AssemblyReference.cache
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/obj/Debug/net7.0/Ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/obj/Debug/net7.0/Ex1.AssemblyInfoInputs.cache
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/obj/Debug/net7.0/Ex1.AssemblyInfo.cs
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/obj/Debug/net7.0/Ex1.csproj.CoreCompileInputs.cache
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/bin/Debug/net7.0/Ex1
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/bin/Debug/net7.0/Ex1.deps.json
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/bin/Debug/net7.0/Ex1.runtimeconfig.json
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/bin/Debug/net7.0/Ex1.dll
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/bin/Debug/net7.0/Ex1.pdb
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/obj/Debug/net7.0/Ex1.dll
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/obj/Debug/net7.0/refint/Ex1.dll
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/obj/Debug/net7.0/Ex1.pdb
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/obj/Debug/net7.0/Ex1.genruntimeconfig.cache
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Labsheet 4/obj/Debug/net7.0/ref/Ex1.dll
