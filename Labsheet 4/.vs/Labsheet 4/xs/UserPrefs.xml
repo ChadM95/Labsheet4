@@ -1,24 +1,25 @@
-﻿<Properties StartupConfiguration="{D74A8653-9DC2-498A-8405-B8A6C58BC767}|Default">
+﻿<Properties StartupConfiguration="{E8A7F70B-33D7-463E-8371-322CDB7C7536}|Default">
   <MonoDevelop.Ide.ItemProperties.Ex2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Ex1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Ex2a FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Ex2a PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Ex2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex2a/Program.cs">
     <Files>
-      <File FileName="Ex2/Program.cs" Line="37" Column="69" />
-      <File FileName="Labsheet 4/Program.cs" Line="1" Column="1" />
+      <File FileName="Ex2/Program.cs" Line="27" Column="27" />
+      <File FileName="Ex2a/Program.cs" Line="12" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Labsheet 4">
             <Node name="Ex1" expanded="True" />
-            <Node name="Ex2">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="Ex2" expanded="True" />
+            <Node name="Ex2a" expanded="True" />
           </Node>
         </State>
       </Pad>

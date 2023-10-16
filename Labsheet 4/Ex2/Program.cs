@@ -6,48 +6,36 @@ class NameAndSaying
 {
     static void Main(string[] args)
     {
-        //setup
         string name, saying;
 
-        //output
-        Console.WriteLine("><><><><><><><><><><><><><><><><><><><");
+        Console.WriteLine("><><><><><><><><><><><><><<><><><><><><><><><");
 
         name = GetInputValue("name");
 
+
         saying = GetInputValue("favourite saying");
+       
 
-        DisplayNameAndSaying(name,saying);
+        Display(name, saying);
 
-        Console.WriteLine("><><><><><><><><><><><><><><><><><><><");
+        Console.WriteLine("><><><><><><><><><><><><><><><><><><><><><><><");
         Console.ReadLine();
     }
 
     static string GetInputValue(string whichValue)
     {
         string inputValue;
-
-        Console.Write("Enter your {0}> ", whichValue);
+        Console.WriteLine("What is your {0}", whichValue);
         inputValue = Console.ReadLine();
 
         return inputValue;
+
     }
 
-    static void DisplayNameAndSaying(string name, string saying)
+    static void Display(string name, string saying)
     {
-
-        Console.WriteLine($"{name}'s favourite saying is {saying}");
-
+        Console.WriteLine($"{name}'s favourite saying is \n {saying}");
     }
-
-
-
-
-
-
-
-
-
-
 
 }//end of class
 
