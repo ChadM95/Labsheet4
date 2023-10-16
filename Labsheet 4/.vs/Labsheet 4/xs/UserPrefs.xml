@@ -1,13 +1,8 @@
-﻿<Properties StartupConfiguration="{E8A7F70B-33D7-463E-8371-322CDB7C7536}|Default">
-  <MonoDevelop.Ide.ItemProperties.Ex2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties StartupConfiguration="{D74A8653-9DC2-498A-8405-B8A6C58BC767}|Default">
   <MonoDevelop.Ide.ItemProperties.Ex1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Ex2a PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ex3 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Ex5 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Ex2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Ex2a/Program.cs">
     <Files>
       <File FileName="Ex2/Program.cs" Line="27" Column="27" />
@@ -25,4 +20,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ex2a PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
