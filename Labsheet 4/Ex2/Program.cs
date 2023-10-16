@@ -13,6 +13,7 @@ class NameAndSaying
         Console.WriteLine("><><><><><><><><><><><><><><><><><><><");
 
         name = GetInputValue("name");
+
         saying = GetInputValue("favourite saying");
 
         DisplayNameAndSaying(name,saying);
