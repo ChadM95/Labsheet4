@@ -1,0 +1,15 @@
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/obj/Debug/net7.0/Ex4WithSolution.csproj.AssemblyReference.cache
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/obj/Debug/net7.0/Ex4WithSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/obj/Debug/net7.0/Ex4WithSolution.AssemblyInfoInputs.cache
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/obj/Debug/net7.0/Ex4WithSolution.AssemblyInfo.cs
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/obj/Debug/net7.0/Ex4WithSolution.csproj.CoreCompileInputs.cache
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/bin/Debug/net7.0/Ex4WithSolution
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/bin/Debug/net7.0/Ex4WithSolution.deps.json
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/bin/Debug/net7.0/Ex4WithSolution.runtimeconfig.json
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/bin/Debug/net7.0/Ex4WithSolution.dll
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/bin/Debug/net7.0/Ex4WithSolution.pdb
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/obj/Debug/net7.0/Ex4WithSolution.dll
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/obj/Debug/net7.0/refint/Ex4WithSolution.dll
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/obj/Debug/net7.0/Ex4WithSolution.pdb
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/obj/Debug/net7.0/Ex4WithSolution.genruntimeconfig.cache
+/Users/Chad/ATU/OOSD1/Labsheet4/Labsheet 4/Ex4WithSolution/obj/Debug/net7.0/ref/Ex4WithSolution.dll
