@@ -19,9 +19,9 @@ class TimeConverter
 
         minutes = DetermineMinutes(remainingSeconds);
 
-        finalSeconds = minutes ;
+        finalSeconds = remainingSeconds - (minutes * 60);
 
-        Display(hours);
+        Display(hours, minutes, finalSeconds);
 
         Console.WriteLine();
 
@@ -45,9 +45,11 @@ class TimeConverter
         return remainingSeconds / 60;
     }
 
-    static void Display(int hours)
+    static void Display(int hours, int minutes, int finalSeconds)
     {
-        Console.WriteLine(hours);
+        Console.WriteLine($"hours:    {hours}");
+        Console.WriteLine($"minutes:  {minutes}");
+        Console.WriteLine($"seconds:  {finalSeconds}");
     }
 
 
