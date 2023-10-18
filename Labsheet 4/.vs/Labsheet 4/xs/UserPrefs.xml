@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{847DD1B6-C682-436B-AE5B-55350BFBD166}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ex5 FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Ex2a/Program.cs">
     <Files>
       <File FileName="Ex2/Program.cs" Line="27" Column="27" />
@@ -16,13 +17,13 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Ex3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Ex1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Ex5 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Ex4 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Ex2a PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ex4WithSolution FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Ex1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Ex2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Ex4 FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Ex3 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

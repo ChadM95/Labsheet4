@@ -2,8 +2,8 @@
 
 class TimeConverter
 {
-    //Main, InputSeconds, DetermineHours, DetermineRemainingSeconds
-    //DetermineMinutes, Display
+    //Methods...
+    //Main, InputSeconds, DetermineHours, DetermineMinutes, Display
 
     static void Main(string[] args)
     {
@@ -32,7 +32,6 @@ class TimeConverter
     {
         Console.Write("Total Seconds: ");
         return int.Parse(Console.ReadLine());
-
     }
 
     static int DetermineHours(int totalSeconds)
